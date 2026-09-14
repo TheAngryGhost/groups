@@ -68,11 +68,11 @@ function show_group(){
     else if (g11.some(name => name.toLowerCase() == myName)) {
         document.getElementById("my_group").innerHTML =
         "Your group:<br>" + g11.join("<br>");
-    }
+	    }
 	else if (g12.some(name => name.toLowerCase() == myName)) {
         document.getElementById("my_group").innerHTML =
         "Your group:<br>" + g12.join("<br>");
-    }
+	    }
     else {
         document.getElementById("my_group").innerHTML =
         "Name not found; make sure you type your first name and last initial.";
