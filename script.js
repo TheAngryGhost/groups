@@ -1,14 +1,16 @@
-var g1= ["Thomas S", "Toe R", "Aven A", "Jackson H", "Brendan M", "Paxton C", "Ian D", "Minji O", "Vinh P", "Claire P", ];								
-var g2= ["Bella J", "Will N", "Jayce P", "Callie S", "Sam K", "Edwin V", "Sam C", "Wilson O", "Dylan F", "Anthony C", ];								
-var g3= ["Jada V", "Brecken P", "Casper T", "Joshua B", "Soren H", "Memphis G", "Caden A", "Makayla T", "Kendall G", "Luis P", ];							
-var g4= ["Drew D", "Dylan M", "Jeff S", "Teagan T", "Allie M", "Ivan A", "Matthew L", "Sierra S", "Brady H", "Bella B", ];								
-var g5= ["Samarpan M", "Henry B", "Phu N", "Callan G", "Alex F", "Bo B", "Nate R", "Evan H", "Ben H", "Matthew N", ];								
-var g6= ["Jaron M", "Henry R", "Evan R", "Aidan C", "Jonathan C", "Gracious O", "Leo P", "Caden S", "Alex K", "Carsten C", ];							
-var g7= ["Irving L", "Miles C", "Creighon W", "Phu Le L", "Brennan W", "Ethan B", "Aaron C", "Christian A", "Lucian B", "Dominic V", ];						
-var g8= ["Anthony B", "Malachi M", "Holdan W", "Connor K", "Grant R", "Sam S", "Noah S", "Luke W", "Thatcher L", ];								
-var g9= ["Cardel D", "William L", "Omar S", "Nafisha Nawal M", "Femi O", "Blake N", "Nate F", "Evan T", "Kevin C", ];									
-var g10= ["Brayden T", "Alec M", "Tyson L", "Breck O", "Eamonn B", "Leo B", "John R", "Elise D", "Jodi-Ane S", ];									
-var g11= ["Aiden W", "Will P", "Riley A", "Zachary F", "Huy B", "Nolan H", "Alec R", "Ben T", "Henrik K", ];										
+var g1= ["Caden A","Aven A","Christian A","Riley A","Ivan A","Leo B","Taeli B","Anthony B","Joshua B","Bella B",];
+var g2= ["Lucian B","Ethan B","Eamonn B","Bo B","Henry B","Huy B","Carsten C","Kevin C","Aaron C","Jonathan C",];
+var g3= ["Paxton C","Miles C","Aidan C","Sam C","Anthony C","Elise D","Drew D","Cardel D","Zander D","Ian D",];
+var g4= ["Alex F","Nate F","Zachary F","Dylan F","Kendall G","Memphis G","Callan G","Evan H","Ben H","Brady H",];
+var g5= ["Soren H","Nolan H","Jackson H","Cole J","Bella J","Henrik K","Connor K","Alex K","Sam K","Thatcher L",];
+var g6= ["Dylan L","Phu L","Michael L","Matthew L","William L","Tyson L","Jada L","Irving L","Malachi M","Derek M",];
+var g7= ["Dylan M","Alec M","Nafisha Nawal M","Samarpan M","Allie M","Brendan M","Jaron M","Matthew N","Phu N","Will N",];
+var g8= ["Blake N","Femi O","Gracious O","Minji O","Yusup O","Breck O","Wilson O","Jayce P","Leo P",];
+var g9= ["Brecken P","Claire P","Luis P","Vinh P","Will P","John R","Henry R","Toe R","Alec R",];
+var g10= ["Nate R","Evan R","Grant R","Omar S","Sierra S","Jeff S","Sam S","Callie S","Noah S",];
+var g11= ["Caden S","Jodi-Ane S","Thomas S","Evan T","Makayla T","Teagan T","Brayden T","Ben T","Casper T",];
+var g12= ["Edwin V","Dominic V","Jada V","Aiden W","Holdan W","Caleb W","Creighon W","Brennan W","Luke W",];
+									
 
 
 function show_group(){
