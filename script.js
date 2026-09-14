@@ -39,36 +39,40 @@ function show_group(){
     }
     else if (g4.some(name => name.toLowerCase() == myName)) {
         document.getElementById("my_group").innerHTML =
-        "Your group:<br>" + g2.join("<br>");
+        "Your group:<br>" + g4.join("<br>");
     }
     else if (g5.some(name => name.toLowerCase() == myName)) {
         document.getElementById("my_group").innerHTML =
-        "Your group:<br>" + g3.join("<br>");
+        "Your group:<br>" + g5.join("<br>");
     }
     else if (g6.some(name => name.toLowerCase() == myName)) {
         document.getElementById("my_group").innerHTML =
-        "Your group:<br>" + g2.join("<br>");
+        "Your group:<br>" + g6.join("<br>");
     }
     else if (g7.some(name => name.toLowerCase() == myName)) {
         document.getElementById("my_group").innerHTML =
-        "Your group:<br>" + g3.join("<br>");
+        "Your group:<br>" + g7.join("<br>");
     }
     else if (g8.some(name => name.toLowerCase() == myName)) {
         document.getElementById("my_group").innerHTML =
-        "Your group:<br>" + g2.join("<br>");
+        "Your group:<br>" + g8.join("<br>");
     }
     else if (g9.some(name => name.toLowerCase() == myName)) {
         document.getElementById("my_group").innerHTML =
-        "Your group:<br>" + g3.join("<br>");
+        "Your group:<br>" + g9.join("<br>");
     }
     else if (g10.some(name => name.toLowerCase() == myName)) {
         document.getElementById("my_group").innerHTML =
-        "Your group:<br>" + g2.join("<br>");
+        "Your group:<br>" + g10.join("<br>");
     }
     else if (g11.some(name => name.toLowerCase() == myName)) {
         document.getElementById("my_group").innerHTML =
-        "Your group:<br>" + g3.join("<br>");
-    }
+        "Your group:<br>" + g11.join("<br>");
+	    }
+	else if (g12.some(name => name.toLowerCase() == myName)) {
+        document.getElementById("my_group").innerHTML =
+        "Your group:<br>" + g12.join("<br>");
+	    }
     else {
         document.getElementById("my_group").innerHTML =
         "Name not found; make sure you type your first name and last initial.";
